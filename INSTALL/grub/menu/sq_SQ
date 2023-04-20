@@ -1,0 +1,93 @@
+{
+    "VTLANG_LANGUAGE_NAME": "English (English)",
+    
+"VTLANG_STR_HOTKEY_LIST": "L:Gjuha  F1:Ndihmë  F2:Shfleto  F3:ListView  F4:Localboot  F5:Mjete  F6:ExMenu",
+"VTLANG_STR_HOTKEY_TREE": "L:Gjuha  F1:Ndihmë  F2:Shfleto  F3:TreeView  F4:Localboot  F5:Mjete  F6:ExMenu",
+"VTLANG_RETURN_PREVIOUS": "Kthehu në menujen e mëparshme [Esc]",
+"VTLANG_RETURN_PRV_NOESC": "Kthehu në menujen e mëparshme",
+
+"VTLANG_MENU_LANG": "Zgjidhni gjuhën e menysë",
+
+"VTLANG_LB_SBOOT_WINDOWS": "Kërko dhe ngarko Windows-in",
+"VTLANG_LB_SBOOT_G4D": "Kërko dhe ngarko Grub4dos",
+"VTLANG_LB_SBOOT_HDD1": "Ngarko diskun lokal të parë",
+"VTLANG_LB_SBOOT_HDD2": "Ngarko diskun lokal të dytë",
+"VTLANG_LB_SBOOT_HDD3": "Ngarko diskun lokal të tretë",
+"VTLANG_LB_SBOOT_X64EFI": "Kërko dhe ngarko BOOTX64.EFI",
+"VTLANG_LB_SBOOT_IA32EFI": "Kërko dhe ngarko BOOTIA32.EFI",
+"VTLANG_LB_SBOOT_AA64EFI": "Kërko dhe ngarko BOOTAA64.EFI",
+"VTLANG_LB_SBOOT_XORBOOT": "Kërko dhe ngarko xorboot",
+
+"VTLANG_FILE_CHKSUM": "Kontrolli i skedarëve",
+"VTLANG_CHKSUM_MD5_CALC": "Llogarit md5sum",
+"VTLANG_CHKSUM_SHA1_CALC": "Llogarit sha1sum",
+"VTLANG_CHKSUM_SHA256_CALC": "Llogarit sha256sum",
+"VTLANG_CHKSUM_SHA512_CALC": "Llogarit sha512sum",
+"VTLANG_CHKSUM_MD5_CALC_CHK": "Llogarit dhe kontrollo md5sum",
+"VTLANG_CHKSUM_SHA1_CALC_CHK": "Llogarit dhe kontrollo sha1sum",
+"VTLANG_CHKSUM_SHA256_CALC_CHK": "Llogarit dhe kontrollo sha256sum",
+"VTLANG_CHKSUM_SHA512_CALC_CHK": "Llogarit dhe kontrollo sha512sum",
+
+"VTLANG_POWER": "Ndërprerje",
+"VTLANG_POWER_REBOOT": "Rivendos",
+"VTLANG_POWER_HALT": "Ndalo",
+"VTLANG_POWER_BOOT_EFIFW": "Rivendos në EFI setup",
+
+"VTLANG_KEYBRD_LAYOUT": "Shembuj të tastierës",
+"VTLANG_HWINFO": "Informacioni i harduerit",
+
+"VTLANG_RESOLUTION_CFG": "Konfigurimi i Rezolucionit",
+"VTLANG_SCREEN_MODE": "Mënyra e Shfaqjes së Ekranit",
+"VTLANG_SCREEN_TEXT_MODE": "Forco Mënyrën e Tekstit",
+"VTLANG_SCREEN_GUI_MODE": "Forco Mënyrën Grafike",
+
+"VTLANG_THEME_SELECT": "Zgjedh Temën",
+
+"VTLANG_UEFI_UTIL": "Përdorshme për UEFI",
+"VTLANG_UTIL_SHOW_EFI_DRV": "Shfaq Shoferët EFI",
+"VTLANG_UTIL_FIX_BLINIT_FAIL": "Rregullo Problem në BlinitializeLibrary të Windows",
+
+"VTLANG_JSON_CHK_JSON": "Kontrollo Konfigurimin JSON të Shtojcës (ventoy.json)",
+"VTLANG_JSON_CHK_CONTROL": "Kontrollo Konfigurimin Global të Shtojcës Kontrolli",
+"VTLANG_JSON_CHK_THEME": "Kontrollo Konfigurimin e Shtojcës Tema",
+"VTLANG_JSON_CHK_AUTOINS": "Kontrollo Konfigurimin e Shtojcës Auto-instalim",
+"VTLANG_JSON_CHK_PERSIST": "Kontrollo Konfigurimin e Shtojcës Qëndrueshmëri",
+"VTLANG_JSON_CHK_MENU_ALIAS": "Kontrollo Konfigurimin e Shtojcës Alias-i i Menyve",
+"VTLANG_JSON_CHK_MENU_TIP": "Kontrollo Konfigurimin e Shtojcës Këshilla për Meny",
+"VTLANG_JSON_CHK_MENU_CLASS": "Kontrollo Konfigurimin e Shtojcës Klasa e Menyve",
+"VTLANG_JSON_CHK_INJECTION": "Kontrollo Konfigurimin e Shtojcës Injeksion",
+"VTLANG_JSON_CHK_AUTO_MEMDISK": "Kontrollo Konfigurimin e Shtojcës Memdisk Auto",
+"VTLANG_JSON_CHK_IMG_LIST": "Kontrollo Konfigurimin e Shtojcës Listë e Figurave",
+"VTLANG_JSON_CHK_IMG_BLIST": "Kontrollo Konfigurimin e Shtojcës Lista e Figurave të Zëna",
+"VTLANG_JSON_CHK_CONF_REPLACE": "Kontrollo Konfigurimin e Shtojcës Zëvendëso Konfigurimin e Nisjes",
+"VTLANG_JSON_CHK_DUD": "Kontrollo Konfigurimin e Shtojcës Dud",
+"VTLANG_JSON_CHK_PASSWORD": "Kontrollo Konfigurimin e Shtojcës Fjalëkalim",
+
+"VTLANG_NORMAL_MODE": "Nisja Normale",
+"VTLANG_WIMBOOT_MODE": "Nisja në Wimboot",
+"VTLANG_GRUB2_MODE": "Nisja në Grub2",
+"VTLANG_MEMDISK_MODE": "Nisja në Memdisk",
+
+"VTLANG_RET_TO_LISTVIEW": "Kthehu te Shikimi me Listë",
+"VTLANG_RET_TO_TREEVIEW": "Kthehu te Shikimi me Pemë",
+
+"VTLANG_NO_AUTOINS_SCRIPT": "Nisja pa Modelin e Instalimit Auto",
+"VTLANG_AUTOINS_USE": "Nis me",
+
+"VTLANG_NO_PERSIST": "Nis pa qëndrueshmërinë",
+"VTLANG_PERSIST_USE": "Nis me",
+
+"VTLANG_BROWER_RETURN": "Kthehu mbrapa",
+
+"VTLANG_ENTER_EXIT": "shtypni tastin Enter për të dalë",
+"VTLANG_ENTER_REBOOT": "shtypni tastin Enter për të rifilluar",
+"VTLANG_ENTER_CONTINUE": "shtypni tastin Enter për të vazhduar",
+
+"VTLANG_CTRL_TEMP_SET": "Rregullimet e Kontrollit të Përkohshëm",
+"VTLANG_WIN11_BYPASS_CHECK": "Kaloni testin e procesorit/TPM/SecureBoot kur instaloni Windows 11",
+"VTLANG_WIN11_BYPASS_NRO": "Kaloni kërkesën e llogarisë në linjë kur instaloni Windows 11",
+"VTLANG_LINUX_REMOUNT": "Nëngjitur partition-i Ventoy pasi të nisni Linux-in",
+"VTLANG_SECONDARY_BOOT_MENU": "Shfaq menynë e dytë të nisjes",
+
+"MENU_STR_XXX": ""
+
